@@ -1,4 +1,10 @@
-package binarySearchInorder;
+package BST;
+
+/**
+ * RBTree: Constructs a balanced binary search tree
+ * @author Joseph Ajayi
+ *
+ */
 
 public final class RBTree {
 

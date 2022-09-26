@@ -1,19 +1,11 @@
-package binarySearchInorder;
+package BST;
+
 import java.util.*;
-/**
- * 
+/*
+ * Main class
  */
+public class BinarySearch {
 
-/**
- * @author Joseph Ajayi
- * @version 1.0
- * @since 2021-09-25
- */
-class BST {
-
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		try (Scanner input = new Scanner(System.in)) {
 		System.out.println("Enter a size: ");
@@ -33,4 +25,5 @@ class BST {
 		System.out.println("BST number of comparisons: " + BST.getComparisons());
 		}
 	}
+
 }

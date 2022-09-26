@@ -1,10 +1,10 @@
-package binarySearchInorder;
+package BST;
 
 /**
- * 
+ * BinarySearchTree implementation in Java
  */
 /**
- * @author joseph
+ * @author Joseph Ajayi
  *
  */
 public final class BinarySearchTree {
